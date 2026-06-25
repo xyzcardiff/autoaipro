@@ -1,9 +1,9 @@
 # AutoAIPro
 
-Generate images from text prompts
+Summarizes meeting transcripts automatically
 
 ## 🎯 Inspired By
-Trending topic: **AI Image Generator**
+Trending topic: **AI Meeting Summarizer**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,23 +11,23 @@ Trending topic: **AI Image Generator**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Node.js
-- Express
-- Replicate API
-- Vue.js
+- Python
+- Django
+- Whisper API
+- React
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/xyzcardiff/autoaipro.git
 cd autoaipro
-npm install
+pip install -r requirements.txt
 ```
 
 ## 🏃 Running
 
 ```bash
-npm start
+python app.py
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-03-24*
+*Date: 2026-06-25*
